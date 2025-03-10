@@ -166,8 +166,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'Soon',
-    description: 'Put in here the description.',
+    name: 'InventoryManager_1',
+    description: 'Inventory Manager** is a modern and minimalist inventory management system designed to optimize the control of products, suppliers, and orders.',
     tags: [
       {
         name: 'react',
@@ -183,8 +183,8 @@ const projects = [
       },
     ],
     image: space,
-    repo: 'https://github.com/alesobDPL',
-    demo: 'https://github.com/alesobDPL',
+    repo: 'https://github.com/InventoryManager',
+    demo: 'https://github.com/InventoryManager',
   },
   {
     id: 'project-2',
