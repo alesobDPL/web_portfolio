@@ -17,6 +17,7 @@ import {
   postgresql,
   rubyrails,
   graphql,
+  InventoryManager,
   space,
   CaseMaker,
   coverhunt,
@@ -166,8 +167,8 @@ const experiences = [
 const projects = [
   {
     id: 'project-1',
-    name: 'InventoryManager_1',
-    description: 'Inventory Manager** is a modern and minimalist inventory management system designed to optimize the control of products, suppliers, and orders.',
+    name: 'Inventory Manager',
+    description: 'Inventory Manager is a modern and minimalist inventory management system designed to optimize the control of products, suppliers, and orders.',
     tags: [
       {
         name: 'react',
@@ -182,9 +183,9 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: dashboard_empresarial,
-    repo: 'https://github.com/InventoryManager',
-    demo: 'https://github.com/InventoryManager',
+    image: InventoryManager,
+    repo: 'https://github.com/alesobDPL/InventoryManager',
+    demo: 'https://github.com/alesobDPL/InventoryManager',
   },
   {
     id: 'project-2',

@@ -40,8 +40,7 @@ import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
-
-
+import InventoryManager from './projects/InventoryManager.png';
 import space from './projects/space-hub.png';
 import CaseMaker from './projects/CaseMaker.png';
 
@@ -82,6 +81,7 @@ export {
   redux,
   tailwind,
   typescript,
+  InventoryManager,
   space,
   CaseMaker,
   coverhunt,
