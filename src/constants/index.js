@@ -182,7 +182,7 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: space,
+    image: dashboard_empresarial,
     repo: 'https://github.com/InventoryManager',
     demo: 'https://github.com/InventoryManager',
   },
