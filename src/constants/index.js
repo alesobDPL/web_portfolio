@@ -20,6 +20,7 @@ import {
   InventoryManager,
   space,
   CaseMaker,
+  WeatherApp,
   coverhunt,
   dcc,
   microverse,
@@ -212,8 +213,8 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Soon',
-    description: 'Put in here the description.',
+    name: 'Weather App',
+    description: 'Weather app using OpenWeather API',
     tags: [
       {
         name: 'nextjs',
@@ -228,9 +229,9 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: space,
-    repo: 'https://github.com/alesobDPL',
-    demo: 'https://github.com/alesobDPL',
+    image: WeatherApp,
+    repo: 'https://github.com/alesobDPL/weather_app',
+    demo: 'https://weather-app-rho-two-83.vercel.app/',
   },
   {
     id: 'project-4',
