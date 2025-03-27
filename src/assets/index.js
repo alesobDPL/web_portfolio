@@ -41,11 +41,11 @@ import dcc from './company/dcc.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
 
-
+//proyects images
 import space from './projects/space-hub.png';
 import CaseMaker from './projects/CaseMaker.png';
 import InventoryManager from './projects/InventoryManager.png';
-import WeatherApp from './projects/weatherApp.png';
+import WeatherApp from './projects/weatherApp.jpg';
 
 export {
   bwmap,
